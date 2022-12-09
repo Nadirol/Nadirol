@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Duy ( Spells like Zoo-ee). I’m a self-driven and creative web developer with experience in building complex and
+My name is Duy ( spells like Zoo-ee). I’m a self-driven and creative web developer with experience in building complex and
 modern web-based applications using best technology practices. Looking to start a
 career as an entry-level web developer in a professional environment.
 
